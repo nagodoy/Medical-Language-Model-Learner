@@ -3,6 +3,7 @@ from __future__ import division, unicode_literals
 # Import libraries.
 import pandas as pd
 import numpy as np
+import sklearn as sk
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.preprocessing import OrdinalEncoder, LabelEncoder
 from sklearn.ensemble import RandomForestClassifier
