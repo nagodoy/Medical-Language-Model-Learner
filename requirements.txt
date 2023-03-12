@@ -1,7 +1,7 @@
 flask
 flask_cors
 gunicorn
-streamlit==0.47.4
+streamlit
 sklearn
 numpy
 altair
